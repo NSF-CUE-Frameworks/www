@@ -3,7 +3,7 @@ output_dir: "docs"
 include: "gfx"
 exclude: ["makefile", "data"]
 navbar:
-  title: "OCCTIVE"
+  title: "OCCTIVE-Version 1"
   left:
     - text: "Home"
       icon: fa-home

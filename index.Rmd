@@ -15,6 +15,8 @@ library(bsplus)
 
 This multi-institution, [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1935113&HistoricalAwards=false) CUE project to address computing in undergraduate education resulted in **OCCTIVE, the Online Computing-concepts Toolkit of Interdisciplinary Videos for Education**.  The focus of this video repository is non-CS courses that use computing, providing students in those courses with strong understanding of foundational computing concepts that will be transferable as they continue to encounter computing  within  their fields of study.
 
+In 2024 we received additional NSF funding to further extend and evaluate OCCTIVE.  Please check out the [new project](https://occtive.github.io/www/index.html).
+
 
 
 <a class="btn btn-primary btn-lg" href="oldProjects.html" role="button">Learn more...</a>
